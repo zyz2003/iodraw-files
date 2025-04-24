@@ -90,12 +90,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="778" y="265" as="sourcePoint" />
-            <mxPoint x="914" y="356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-24" target="6bGIvlNvhto1VfbK5qb2-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -111,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-26" value="用户选择查看消息通知" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1062" y="243" width="150" height="44" as="geometry" />
+          <mxGeometry x="871" y="241" width="150" height="44" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-30" value="生成并查看健康报告" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="216" y="325" width="122" height="33" as="geometry" />
