@@ -106,8 +106,8 @@
         <mxCell id="qJxts9kk2ZiXljQrQzZH-30" value="后端存储用户信息到数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="388.5" y="594" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qJxts9kk2ZiXljQrQzZH-32" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="388.5" y="734" width="120" height="60" as="geometry" />
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-32" value="生成JWT令牌" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388.5" y="674" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
