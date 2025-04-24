@@ -94,8 +94,14 @@
         <mxCell id="qJxts9kk2ZiXljQrQzZH-26" value="获取用户基本信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="388.5" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qJxts9kk2ZiXljQrQzZH-28" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="388.5" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qJxts9kk2ZiXljQrQzZH-28" target="qJxts9kk2ZiXljQrQzZH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-28" value="将用户信息发送至后端" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388.5" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-30" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388.5" y="654" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
