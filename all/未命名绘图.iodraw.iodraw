@@ -44,7 +44,7 @@
         <mxCell id="qJxts9kk2ZiXljQrQzZH-6" value="通过JWT令牌验证用户身份" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="249" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qJxts9kk2ZiXljQrQzZH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qJxts9kk2ZiXljQrQzZH-9">
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qJxts9kk2ZiXljQrQzZH-9" target="qJxts9kk2ZiXljQrQzZH-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="628.5" y="349" as="targetPoint" />
           </mxGeometry>
@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="qJxts9kk2ZiXljQrQzZH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qJxts9kk2ZiXljQrQzZH-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="688.5" y="379" as="sourcePoint" />
+            <mxPoint x="686" y="379" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qJxts9kk2ZiXljQrQzZH-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qJxts9kk2ZiXljQrQzZH-17">
