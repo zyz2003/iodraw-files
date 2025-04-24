@@ -212,7 +212,7 @@
           <mxGeometry x="349.5" y="971" width="240" height="29" as="geometry" />
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--66" value="动态更新图表展示不同指标的健康数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="409.5" y="1023" width="120" height="60" as="geometry" />
+          <mxGeometry x="347" y="1027" width="246.5" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
