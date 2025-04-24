@@ -205,8 +205,14 @@
             <mxPoint x="469" y="996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--65" target="6a3FcUmpu_Ye4TnnPOM--66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--65" value="使用Echarts生成健康数据可视化图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="349.5" y="971" width="240" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--66" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="409.5" y="1064.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
