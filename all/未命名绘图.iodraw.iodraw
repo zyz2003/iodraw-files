@@ -70,11 +70,21 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-23" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_njd0eDwmh4y4mjcRzMn-20" target="_njd0eDwmh4y4mjcRzMn-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_njd0eDwmh4y4mjcRzMn-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.66668701171875" y="530.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_njd0eDwmh4y4mjcRzMn-24">
+          <mxGeometry x="-0.5919" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_njd0eDwmh4y4mjcRzMn-20" value="是否收藏" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="115.5" y="344" width="80" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_njd0eDwmh4y4mjcRzMn-22" value="收藏文章" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95.5" y="478" width="108.5" height="19" as="geometry" />
+          <mxGeometry x="99.5" y="461" width="108.5" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
