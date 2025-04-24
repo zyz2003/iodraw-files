@@ -62,6 +62,12 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="713.6666870117188" y="241" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="748" y="347" />
+              <mxPoint x="748" y="238" />
+              <mxPoint x="737" y="238" />
+              <mxPoint x="737" y="241" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--17" value="用户点击添加健康数据按钮" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
