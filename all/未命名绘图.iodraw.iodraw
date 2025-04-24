@@ -184,13 +184,18 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--55" value="确认删除" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="498.25" y="869" width="77.5" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="537" y="960.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--57" value="删除数据记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="496" y="918" width="81" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="355" y="958" as="sourcePoint" />
-            <mxPoint x="438" y="870" as="targetPoint" />
+            <mxPoint x="657" y="958" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
