@@ -124,7 +124,7 @@
           <mxGeometry x="314.63" y="729" width="86.25" height="43" as="geometry" />
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--42" value="是否删除数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="484.005" y="710.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="485.5" y="718.75" width="104" height="63.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
