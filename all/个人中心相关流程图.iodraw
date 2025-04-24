@@ -19,14 +19,14 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-2" value="用户点击“我的”按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="311.5" y="142" width="161" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-4" target="6bGIvlNvhto1VfbK5qb2-6">
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-4" target="6bGIvlNvhto1VfbK5qb2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-4" value="查看个人基本信息和健康数据概览" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280.5" y="196" width="223" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="61" y="250" width="191" height="21" as="geometry" />
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-8" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="105" y="241" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
