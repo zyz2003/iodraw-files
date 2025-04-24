@@ -47,7 +47,7 @@
           <mxGeometry x="357" y="463" width="112.5" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-14" value="在设定时间，系统向用户发送通知" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="353.25" y="546.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="321.13" y="513" width="185.75" height="22.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
