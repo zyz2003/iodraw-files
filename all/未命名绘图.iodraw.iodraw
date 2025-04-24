@@ -56,8 +56,8 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--12" value="显示添加健康数据按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="577" y="220" width="134" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6a3FcUmpu_Ye4TnnPOM--17" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="604" y="297" width="80" height="80" as="geometry" />
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--17" value="用户点击添加健康数据按钮" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="574" y="297" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
