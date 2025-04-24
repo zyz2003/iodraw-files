@@ -76,7 +76,7 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-24" value="用户选择查看收藏记录" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="832" y="243" width="150" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-26" value="用户选择编辑个人信息" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-26" value="用户选择查看消息通知" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1062" y="243" width="150" height="44" as="geometry" />
         </mxCell>
       </root>
