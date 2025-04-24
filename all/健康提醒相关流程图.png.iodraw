@@ -16,7 +16,7 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-2" value="用户进入健康提醒设置页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="333" y="148" width="161" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-4" target="bBVQ5KLS-6yoXfrUSpdY-6">
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-7" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-4" target="bBVQ5KLS-6yoXfrUSpdY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-4" value="点击添加提醒按钮" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
