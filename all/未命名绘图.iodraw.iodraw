@@ -139,6 +139,11 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657.0000610351562" y="958.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--42" value="是否删除数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485.5" y="718.75" width="104" height="63.5" as="geometry" />
         </mxCell>
@@ -153,6 +158,11 @@
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--48" value="修改数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="313.62" y="859" width="86.26" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357" y="959.666748046875" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--50" value="保存修改" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="316.63" y="900" width="80.25" height="21" as="geometry" />
