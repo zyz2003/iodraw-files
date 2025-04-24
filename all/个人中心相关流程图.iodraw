@@ -19,8 +19,8 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-2" value="用户点击“我的”按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="311.5" y="142" width="161" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-4" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="332" y="232.5" width="223" height="28.5" as="geometry" />
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-4" value="查看个人基本" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280.5" y="196" width="223" height="28.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
