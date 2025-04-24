@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="61" width="100" height="60" as="geometry" />
+          <mxGeometry x="426" y="60" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="342" y="577" width="100" height="60" as="geometry" />
@@ -120,7 +120,7 @@
           <mxGeometry x="886.5" y="332" width="119" height="29" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-47" value="返回首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="319.5" y="435" width="145" height="27" as="geometry" />
+          <mxGeometry x="397.5" y="434" width="145" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-0" target="6bGIvlNvhto1VfbK5qb2-0">
           <mxGeometry relative="1" as="geometry" />
