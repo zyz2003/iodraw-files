@@ -112,7 +112,7 @@
           <mxGeometry x="405.5" y="339" width="137" height="19" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-36" value="查看收藏的健康资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="851" y="356" width="112" height="26" as="geometry" />
+          <mxGeometry x="640" y="339" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-38" value="查看维度消息并标记为已读" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1077" y="359" width="119" height="29" as="geometry" />
