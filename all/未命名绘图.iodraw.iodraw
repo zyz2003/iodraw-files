@@ -59,9 +59,19 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--17" target="6a3FcUmpu_Ye4TnnPOM--19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--27" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6a3FcUmpu_Ye4TnnPOM--20">
+          <mxGeometry x="-0.123" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--17" target="6a3FcUmpu_Ye4TnnPOM--12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="759.0000610351562" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6a3FcUmpu_Ye4TnnPOM--26">
+          <mxGeometry x="-0.19" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--17" value="用户点击添加健康数据按钮" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
