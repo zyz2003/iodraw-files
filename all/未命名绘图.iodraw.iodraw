@@ -62,8 +62,8 @@
         <mxCell id="hNSsQhsbx08C35akDZML-16" value="用户点击开始执行按钮" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500.38" y="397" width="151.74" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="hNSsQhsbx08C35akDZML-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="516.25" y="521.25" width="120" height="60" as="geometry" />
+        <mxCell id="hNSsQhsbx08C35akDZML-18" value="将计划中的提醒事项添加到提醒中" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="516.25" y="475" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
