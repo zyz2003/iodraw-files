@@ -10,8 +10,14 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="53" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-2" target="bBVQ5KLS-6yoXfrUSpdY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-2" value="用户进入健康提醒设置页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="149" width="168" height="60" as="geometry" />
+          <mxGeometry x="333" y="148" width="161" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-4" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="228.5" width="107.5" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
