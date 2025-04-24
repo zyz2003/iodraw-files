@@ -56,8 +56,14 @@
         <mxCell id="hNSsQhsbx08C35akDZML-14" value="用户查看推荐计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="498.63" y="349" width="155.25" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hNSsQhsbx08C35akDZML-16" target="hNSsQhsbx08C35akDZML-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-16" value="用户点击开始执行按钮" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="536.26" y="391" width="80" height="49.5" as="geometry" />
+          <mxGeometry x="500.38" y="397" width="151.74" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="516.25" y="521.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
