@@ -50,13 +50,14 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--10" value="跳转至数据可视化页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="131" y="394" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6a3FcUmpu_Ye4TnnPOM--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644" y="296" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--12" target="6a3FcUmpu_Ye4TnnPOM--17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--12" value="显示添加健康数据按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="577" y="220" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--17" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="604" y="297" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
