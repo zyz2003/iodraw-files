@@ -88,7 +88,7 @@
           <mxGeometry x="246.74" y="737" width="99.51" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-29" value="点击删除按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="467.485" y="687" width="120" height="60" as="geometry" />
+          <mxGeometry x="486.23" y="691" width="82.51" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
