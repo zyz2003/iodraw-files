@@ -34,8 +34,14 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-8" value="点击保存按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="363" width="109" height="21.13" as="geometry" />
         </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-10" target="bBVQ5KLS-6yoXfrUSpdY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-10" value="后端存储数据到数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="504.005" width="120" height="60" as="geometry" />
+          <mxGeometry x="349" y="411" width="129" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="504.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
