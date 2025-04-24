@@ -16,7 +16,7 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-1" value="用户进入健康咨询页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="298.5" y="138" width="137" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-3" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-3" value="浏览文章列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="307" y="219.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
