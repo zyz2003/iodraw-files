@@ -10,8 +10,14 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="364" y="46" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6a3FcUmpu_Ye4TnnPOM--1" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--1" target="6a3FcUmpu_Ye4TnnPOM--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--1" value="用户进入健康信息管理页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--3" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="217" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
