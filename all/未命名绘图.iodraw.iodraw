@@ -41,11 +41,17 @@
         <mxCell id="qJxts9kk2ZiXljQrQzZH-6" value="通过JWT令牌验证用户身份" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="249" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qJxts9kk2ZiXljQrQzZH-9" target="qJxts9kk2ZiXljQrQzZH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qJxts9kk2ZiXljQrQzZH-9" value="显示微信授权登录按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="249" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qJxts9kk2ZiXljQrQzZH-12" value="进入个人中心页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="145" y="524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="568.5" y="389" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
