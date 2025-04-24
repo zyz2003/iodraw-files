@@ -104,13 +104,13 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-26" value="用户选择查看消息通知" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1062" y="243" width="150" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-30" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-30" value="生成并查看健康报告" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217" y="359" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-32" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-34" value="查看历史打卡记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-34" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="617" y="359" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-36" value="查看收藏的健康资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
