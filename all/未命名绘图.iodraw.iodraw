@@ -187,6 +187,12 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--57" value="删除数据记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="496" y="918" width="81" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="958" as="sourcePoint" />
+            <mxPoint x="438" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
