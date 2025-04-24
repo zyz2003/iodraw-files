@@ -90,8 +90,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-24" target="6bGIvlNvhto1VfbK5qb2-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="778" y="265" as="sourcePoint" />
+            <mxPoint x="914" y="356" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-24" value="用户选择查看收藏记录" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="621" y="243" width="150" height="44" as="geometry" />
@@ -113,13 +116,6 @@
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-38" value="查看维度消息并标记为已读" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1077" y="359" width="119" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-44" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="636" y="268" as="sourcePoint" />
-            <mxPoint x="736" y="268" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
