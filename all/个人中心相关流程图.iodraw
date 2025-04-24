@@ -122,8 +122,14 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-32" value="查看历史打卡记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="405.5" y="339" width="137" height="19" as="geometry" />
         </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-36" target="6bGIvlNvhto1VfbK5qb2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-36" value="查看收藏的健康资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="332" width="112" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-38" target="6bGIvlNvhto1VfbK5qb2-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-38" value="查看维度消息并标记为已读" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="886.5" y="332" width="119" height="29" as="geometry" />
