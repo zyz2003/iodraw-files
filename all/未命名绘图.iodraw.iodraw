@@ -61,8 +61,8 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-13" value="输入关键词搜索特定资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="507" y="341" width="174" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-16" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="534" y="431.5" width="120" height="60" as="geometry" />
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-16" value="展示搜索结果" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="534" y="431.5" width="127" height="20.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
