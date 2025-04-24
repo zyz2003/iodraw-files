@@ -28,8 +28,14 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-6" value="设置提醒类型" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354.5" y="319" width="119" height="25.25" as="geometry" />
         </mxCell>
-        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-8" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-8" target="bBVQ5KLS-6yoXfrUSpdY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-8" value="点击保存按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="406.875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-10" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="546.875" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
