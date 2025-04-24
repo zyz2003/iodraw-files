@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-8" value="点击保存按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="406.875" width="120" height="60" as="geometry" />
+          <mxGeometry x="359.5" y="363" width="109" height="21.13" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-10" value="后端存储数据到数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="354" y="504.005" width="120" height="60" as="geometry" />
