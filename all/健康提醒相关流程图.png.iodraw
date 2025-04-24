@@ -52,8 +52,14 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-14" value="在设定时间，系统向用户发送通知" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="321.13" y="513" width="185.75" height="22.25" as="geometry" />
         </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-16" target="bBVQ5KLS-6yoXfrUSpdY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-16" value="用户进入健康提醒页面查看提醒事项" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354.01" y="596.38" width="263" height="60" as="geometry" />
+          <mxGeometry x="298" y="562.88" width="230.99" height="21.62" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-18" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373.495" y="635.31" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
