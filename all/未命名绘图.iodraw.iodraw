@@ -41,9 +41,6 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-5" value="是否点击资讯标题" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293.5" y="240" width="147" height="54.25" as="geometry" />
         </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_njd0eDwmh4y4mjcRzMn-7" target="_njd0eDwmh4y4mjcRzMn-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_njd0eDwmh4y4mjcRzMn-7" value="查看文章详情" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="103" y="248.68" width="105" height="36.88" as="geometry" />
         </mxCell>
@@ -66,9 +63,6 @@
         </mxCell>
         <mxCell id="_njd0eDwmh4y4mjcRzMn-16" value="展示搜索结果" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530.5" y="402" width="127" height="20.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-18" value="是否收藏" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95.5" y="354" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
