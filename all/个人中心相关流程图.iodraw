@@ -117,7 +117,10 @@
           <mxGeometry x="640" y="332" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-38" value="查看维度消息并标记为已读" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1077" y="359" width="119" height="29" as="geometry" />
+          <mxGeometry x="886.5" y="332" width="119" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="388" y="419" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
