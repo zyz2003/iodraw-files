@@ -50,8 +50,8 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-10" value="是否使用搜索框" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520.5" y="240" width="147" height="54.25" as="geometry" />
         </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-13" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="534" y="371.375" width="120" height="60" as="geometry" />
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-13" value="输入关键词搜索特定资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="534" y="329.005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
