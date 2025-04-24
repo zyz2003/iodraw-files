@@ -41,6 +41,9 @@
         <mxCell id="hNSsQhsbx08C35akDZML-6" value="点击智能计划生成" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="565" y="174.25" width="115" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hNSsQhsbx08C35akDZML-9" target="hNSsQhsbx08C35akDZML-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-9" value="弹出表单，要求用户输入基本健康信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="119" y="195.38" width="159" height="37.75" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
         </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-20" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="998" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-21" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="138.5" y="302.005" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
