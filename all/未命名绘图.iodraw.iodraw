@@ -28,7 +28,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qJxts9kk2ZiXljQrQzZH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="qJxts9kk2ZiXljQrQzZH-9">
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qJxts9kk2ZiXljQrQzZH-19" target="qJxts9kk2ZiXljQrQzZH-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="281" as="sourcePoint" />
           </mxGeometry>
@@ -67,7 +67,7 @@
         <mxCell id="qJxts9kk2ZiXljQrQzZH-16" value="提示用户需要登录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="768.5" y="349" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qJxts9kk2ZiXljQrQzZH-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-19" value="用户是否已登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365.5" y="245" width="109" height="68" as="geometry" />
         </mxCell>
       </root>
