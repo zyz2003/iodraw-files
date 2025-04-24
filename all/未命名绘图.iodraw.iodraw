@@ -16,8 +16,19 @@
         <mxCell id="qJxts9kk2ZiXljQrQzZH-2" value="用户打开小程序" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="163" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qJxts9kk2ZiXljQrQzZH-4" target="qJxts9kk2ZiXljQrQzZH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qJxts9kk2ZiXljQrQzZH-7">
+          <mxGeometry x="-0.0583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qJxts9kk2ZiXljQrQzZH-4" value="用户是否已登录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qJxts9kk2ZiXljQrQzZH-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="249" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
