@@ -64,9 +64,19 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-18" target="6bGIvlNvhto1VfbK5qb2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bGIvlNvhto1VfbK5qb2-33">
+          <mxGeometry x="-0.359" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-18" target="6bGIvlNvhto1VfbK5qb2-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="657" y="199.66668701171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bGIvlNvhto1VfbK5qb2-40">
+          <mxGeometry x="-0.1174" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-18" value="用户选择查看打卡记录" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -96,7 +106,7 @@
           <mxGeometry x="216" y="325" width="122" height="33" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-32" value="查看历史打卡记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="393" y="339" width="137" height="19" as="geometry" />
+          <mxGeometry x="405.5" y="339" width="137" height="19" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-36" value="查看收藏的健康资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="851" y="356" width="112" height="26" as="geometry" />
