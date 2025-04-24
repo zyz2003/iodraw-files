@@ -28,7 +28,7 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-5" value="是否点击资讯标题" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="293.5" y="240" width="147" height="54.25" as="geometry" />
         </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-7" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-7" value="查看文章详情" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="237.125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
