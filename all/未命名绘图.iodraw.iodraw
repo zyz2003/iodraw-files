@@ -83,8 +83,14 @@
         <mxCell id="hNSsQhsbx08C35akDZML-23" value="点击提交按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="119.25" y="306" width="158.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hNSsQhsbx08C35akDZML-25" target="hNSsQhsbx08C35akDZML-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-25" value="系统生成健康计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="134.25" y="353" width="128.5" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-27" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="138.5" y="403" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
