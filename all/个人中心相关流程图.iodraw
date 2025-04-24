@@ -53,8 +53,14 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-15" value="用户选择生成健康报告" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="277" y="243" width="150" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-18" value="用户选择编辑个人信息" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-18" target="6bGIvlNvhto1VfbK5qb2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-18" value="用户选择查看打卡记录" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="475" y="243" width="150" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-21" value="用户选择编辑个人信息" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="705" y="243" width="150" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
