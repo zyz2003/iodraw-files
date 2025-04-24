@@ -10,8 +10,14 @@
         <mxCell id="hNSsQhsbx08C35akDZML-0" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="71" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hNSsQhsbx08C35akDZML-1" target="hNSsQhsbx08C35akDZML-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-1" value="用户进入首页" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340.5" y="148" width="139" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-3" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="210.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
