@@ -97,11 +97,17 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--23" value="将数据发送至后端并存储到数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365.5" y="485" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--33" target="6a3FcUmpu_Ye4TnnPOM--35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="342.5" y="604" width="30.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--10" target="6a3FcUmpu_Ye4TnnPOM--33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--35" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297.75" y="647" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
