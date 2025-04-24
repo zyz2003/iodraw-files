@@ -69,6 +69,11 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-18" target="bBVQ5KLS-6yoXfrUSpdY-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bBVQ5KLS-6yoXfrUSpdY-26">
+          <mxGeometry x="-0.6968" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-18" value="是否需要修改提醒" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="221" y="616" width="150.99" height="53" as="geometry" />
         </mxCell>
@@ -94,7 +99,7 @@
           <mxGeometry x="486.23" y="691" width="82.51" height="22" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-31" value="确认删除，并移除提醒记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="467.485" y="774" width="120" height="60" as="geometry" />
+          <mxGeometry x="440.23" y="738.5" width="174.52" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
