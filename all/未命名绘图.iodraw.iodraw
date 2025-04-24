@@ -67,7 +67,7 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-16" value="展示搜索结果" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530.5" y="402" width="127" height="20.5" as="geometry" />
         </mxCell>
-        <mxCell id="_njd0eDwmh4y4mjcRzMn-18" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-18" value="是否收藏" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95.5" y="354" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
