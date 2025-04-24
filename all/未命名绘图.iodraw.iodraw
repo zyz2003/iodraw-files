@@ -112,8 +112,19 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--35" value="用户查看历史健康数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="297.75" y="647" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--40" target="6a3FcUmpu_Ye4TnnPOM--42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6a3FcUmpu_Ye4TnnPOM--43">
+          <mxGeometry x="-0.1229" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--40" value="是否修改数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314.63" y="729" width="86.25" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--42" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="484.005" y="710.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
