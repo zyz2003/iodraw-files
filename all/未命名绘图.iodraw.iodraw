@@ -16,8 +16,14 @@
         <mxCell id="hNSsQhsbx08C35akDZML-1" value="用户进入首页" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340.5" y="148" width="139" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hNSsQhsbx08C35akDZML-3" target="hNSsQhsbx08C35akDZML-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-3" value="点击添加健康计划" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="352.5" y="189" width="115" height="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hNSsQhsbx08C35akDZML-6" value="点击智能计划生成" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="565" y="174.25" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
