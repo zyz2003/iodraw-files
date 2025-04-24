@@ -50,7 +50,7 @@
         <mxCell id="hNSsQhsbx08C35akDZML-12" value="系统根据已有身体指标智能生成推荐计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="291" width="212.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="hNSsQhsbx08C35akDZML-14" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hNSsQhsbx08C35akDZML-14" value="用户查看推荐计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="516.25" y="353" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
