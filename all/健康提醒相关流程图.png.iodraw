@@ -106,8 +106,11 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-31" value="确认删除，并移除提醒记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440.23" y="738.5" width="174.52" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-35" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-35" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="832" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-27" target="bBVQ5KLS-6yoXfrUSpdY-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
