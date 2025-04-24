@@ -41,7 +41,7 @@
           <mxGeometry x="349" y="411" width="129" height="29" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-12" value="设置定时任务" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="357.75" y="462" width="112.5" height="22.5" as="geometry" />
+          <mxGeometry x="357" y="463" width="112.5" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
