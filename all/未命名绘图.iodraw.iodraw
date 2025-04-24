@@ -77,8 +77,8 @@
         <mxCell id="hNSsQhsbx08C35akDZML-21" value="用户填写年龄，体重健康目标等信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80.75" y="266" width="235.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hNSsQhsbx08C35akDZML-23" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="138.5" y="311" width="120" height="60" as="geometry" />
+        <mxCell id="hNSsQhsbx08C35akDZML-23" value="点击提交按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="138.5" y="311" width="158.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
