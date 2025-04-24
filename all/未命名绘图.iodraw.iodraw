@@ -44,7 +44,7 @@
         <mxCell id="hNSsQhsbx08C35akDZML-9" value="弹出表单，要求用户输入基本健康信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="119" y="195.38" width="159" height="37.75" as="geometry" />
         </mxCell>
-        <mxCell id="hNSsQhsbx08C35akDZML-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hNSsQhsbx08C35akDZML-12" value="系统根据已有身体指标智能生成推荐计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="562.5" y="296" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
