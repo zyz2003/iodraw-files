@@ -101,7 +101,7 @@
         <mxCell id="hNSsQhsbx08C35akDZML-29" value="跳转至健康计划页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="138.5" y="487.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hNSsQhsbx08C35akDZML-31" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hNSsQhsbx08C35akDZML-31" value="用户查看生成的计划详情" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="138.5" y="627.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
