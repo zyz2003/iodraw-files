@@ -24,6 +24,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--3" target="6a3FcUmpu_Ye4TnnPOM--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--14" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6a3FcUmpu_Ye4TnnPOM--13">
+          <mxGeometry x="-0.2386" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--3" value="用户是否已连接设备" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="342.5" y="210" width="143" height="80" as="geometry" />
         </mxCell>
@@ -41,6 +49,9 @@
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--10" value="跳转至数据可视化页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="131" y="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="577" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
