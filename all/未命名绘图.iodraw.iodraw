@@ -16,8 +16,14 @@
         <mxCell id="_njd0eDwmh4y4mjcRzMn-1" value="用户进入健康咨询页面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="298.5" y="138" width="137" height="21" as="geometry" />
         </mxCell>
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_njd0eDwmh4y4mjcRzMn-3" target="_njd0eDwmh4y4mjcRzMn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_njd0eDwmh4y4mjcRzMn-3" value="浏览文章列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307" y="219.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="307.5" y="189" width="119" height="18.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_njd0eDwmh4y4mjcRzMn-5" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327" y="256.75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
