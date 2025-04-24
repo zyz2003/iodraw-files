@@ -53,7 +53,7 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-15" target="6bGIvlNvhto1VfbK5qb2-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bGIvlNvhto1VfbK5qb2-31">
+        <mxCell id="6bGIvlNvhto1VfbK5qb2-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6bGIvlNvhto1VfbK5qb2-31">
           <mxGeometry x="-0.4921" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -96,7 +96,7 @@
           <mxGeometry x="216" y="325" width="122" height="33" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-32" value="查看历史打卡记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="359" width="120" height="60" as="geometry" />
+          <mxGeometry x="393" y="339" width="137" height="19" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-36" value="查看收藏的健康资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="851" y="356" width="112" height="26" as="geometry" />
