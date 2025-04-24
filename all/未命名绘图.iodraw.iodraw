@@ -33,8 +33,14 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--5" value="通过蓝牙设备获取健康数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="131" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--8" target="6a3FcUmpu_Ye4TnnPOM--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--8" value="自动保存到数据库" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="131" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="307" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--10" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="131" y="394" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
