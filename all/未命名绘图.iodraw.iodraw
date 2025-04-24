@@ -38,8 +38,8 @@
         <mxCell id="hNSsQhsbx08C35akDZML-6" value="点击智能计划生成" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="565" y="174.25" width="115" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hNSsQhsbx08C35akDZML-9" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="155" y="184.25" width="120" height="60" as="geometry" />
+        <mxCell id="hNSsQhsbx08C35akDZML-9" value="弹出表单，要求用户输入基本健康信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="119" y="195.38" width="159" height="37.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
