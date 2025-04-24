@@ -69,7 +69,7 @@
           <mxGeometry x="516.25" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-20" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="389" y="674" width="100" height="60" as="geometry" />
+          <mxGeometry x="374" y="691" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hNSsQhsbx08C35akDZML-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hNSsQhsbx08C35akDZML-21" target="hNSsQhsbx08C35akDZML-23">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="672" y="422" />
-              <mxPoint x="672" y="674" />
+              <mxPoint x="672" y="554" />
+              <mxPoint x="424" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
