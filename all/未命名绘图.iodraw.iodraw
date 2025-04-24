@@ -131,6 +131,9 @@
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--40" value="是否修改数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="314.63" y="729" width="86.25" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6a3FcUmpu_Ye4TnnPOM--42" target="6a3FcUmpu_Ye4TnnPOM--52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--42" value="是否删除数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485.5" y="718.75" width="104" height="63.5" as="geometry" />
         </mxCell>
@@ -148,6 +151,9 @@
         </mxCell>
         <mxCell id="6a3FcUmpu_Ye4TnnPOM--50" value="保存修改" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="316.63" y="900" width="80.25" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6a3FcUmpu_Ye4TnnPOM--52" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="477.5" y="864" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
