@@ -81,8 +81,8 @@
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-25" value="点击编辑按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="246.74" y="691" width="99.51" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-27" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="236.495" y="775.5" width="120" height="60" as="geometry" />
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-27" value="修改提醒内容" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="236.5" y="775.5" width="99.51" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
