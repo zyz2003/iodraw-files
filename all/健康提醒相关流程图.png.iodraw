@@ -66,11 +66,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bBVQ5KLS-6yoXfrUSpdY-18" target="bBVQ5KLS-6yoXfrUSpdY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-18" value="是否需要修改提醒" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="221" y="616" width="150.99" height="53" as="geometry" />
         </mxCell>
         <mxCell id="bBVQ5KLS-6yoXfrUSpdY-20" value="是否需要删除提醒" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="451.99" y="616" width="150.99" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="bBVQ5KLS-6yoXfrUSpdY-25" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="236.495" y="696" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
