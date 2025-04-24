@@ -67,11 +67,6 @@
         <mxCell id="6bGIvlNvhto1VfbK5qb2-18" value="用户选择查看打卡记录" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="399" y="243" width="150" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="6bGIvlNvhto1VfbK5qb2-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="677" y="287" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6bGIvlNvhto1VfbK5qb2-24" target="6bGIvlNvhto1VfbK5qb2-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -97,9 +92,6 @@
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-32" value="查看历史打卡记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="359" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6bGIvlNvhto1VfbK5qb2-34" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="617" y="359" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6bGIvlNvhto1VfbK5qb2-36" value="查看收藏的健康资讯" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="851" y="356" width="112" height="26" as="geometry" />
