@@ -7,8 +7,8 @@
         <mxCell id="edPSjjy8sZpWDYTlXjbP-2" value="用户表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="edPSjjy8sZpWDYTlXjbP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="161" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="edPSjjy8sZpWDYTlXjbP-4" value="文章表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="225" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
