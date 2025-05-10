@@ -38,13 +38,19 @@
           <mxGeometry x="341" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oiHNf2Rl8lUcDAuDIKlW-11" value="健康计划推荐" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242" y="519" width="120" height="60" as="geometry" />
+          <mxGeometry x="242" y="519" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oiHNf2Rl8lUcDAuDIKlW-13" value="分析报告生成" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="441" y="519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oiHNf2Rl8lUcDAuDIKlW-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="341" y="621" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiHNf2Rl8lUcDAuDIKlW-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="oiHNf2Rl8lUcDAuDIKlW-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388" y="420" as="sourcePoint" />
+            <mxPoint x="438" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
