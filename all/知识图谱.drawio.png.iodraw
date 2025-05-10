@@ -31,11 +31,17 @@
         <mxCell id="oiHNf2Rl8lUcDAuDIKlW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiHNf2Rl8lUcDAuDIKlW-9" target="oiHNf2Rl8lUcDAuDIKlW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oiHNf2Rl8lUcDAuDIKlW-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oiHNf2Rl8lUcDAuDIKlW-9" target="oiHNf2Rl8lUcDAuDIKlW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oiHNf2Rl8lUcDAuDIKlW-9" value="应用集成" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="341" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oiHNf2Rl8lUcDAuDIKlW-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="141" y="417" width="120" height="60" as="geometry" />
+          <mxGeometry x="242" y="519" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oiHNf2Rl8lUcDAuDIKlW-13" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="541" y="417" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
