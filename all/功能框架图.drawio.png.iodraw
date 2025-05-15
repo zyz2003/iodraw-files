@@ -25,6 +25,9 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-8" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="253" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QWTr_XzzyktRFArO9pb3-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="32" y="402" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
