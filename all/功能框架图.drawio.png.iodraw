@@ -22,7 +22,7 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-7" value="查阅健康资讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="577" y="253" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QWTr_XzzyktRFArO9pb3-8" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="253" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
