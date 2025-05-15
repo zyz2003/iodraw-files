@@ -10,8 +10,11 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-2" value="查看个人健康数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="249" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QWTr_XzzyktRFArO9pb3-3" value="制定健康计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="223" y="249" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QWTr_XzzyktRFArO9pb3-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="356" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
