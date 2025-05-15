@@ -55,14 +55,8 @@
             <mxPoint x="437" y="361" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="583" y="169" as="sourcePoint" />
-            <mxPoint x="633" y="119" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QWTr_XzzyktRFArO9pb3-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="585" width="50" height="100" as="geometry" />
+          <mxGeometry x="265" y="545" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
