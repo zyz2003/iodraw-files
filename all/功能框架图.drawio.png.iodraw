@@ -44,7 +44,7 @@
           <mxGeometry x="707" y="253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QWTr_XzzyktRFArO9pb3-11" value="用户注册账号并使用该账号登录平台" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="70" y="367" width="60" height="120" as="geometry" />
+          <mxGeometry x="72" y="364" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QWTr_XzzyktRFArO9pb3-12" value="用户可以查看健康数据及其变化趋势" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="205" y="367" width="60" height="120" as="geometry" />
