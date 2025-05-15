@@ -49,8 +49,11 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-18" value="用户可以生成健康趋势分析报告并分享或下载" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="789" y="364" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="144" y="147" width="50" height="100" as="geometry" />
+        <mxCell id="QWTr_XzzyktRFArO9pb3-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218" y="181" as="sourcePoint" />
+            <mxPoint x="268" y="131" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
