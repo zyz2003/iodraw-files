@@ -40,8 +40,11 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-15" value="用户可以接收健康指标异常或打卡提醒等通知" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="473" y="367" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-16" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="623" y="317" width="60" height="120" as="geometry" />
+        <mxCell id="QWTr_XzzyktRFArO9pb3-16" value="用户可以根据不同标签浏览健康资讯" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="607" y="367" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QWTr_XzzyktRFArO9pb3-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="356" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
