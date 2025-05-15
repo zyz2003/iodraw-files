@@ -31,8 +31,11 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-12" value="用户可以查看健康数据及其变化趋势" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="211" y="367" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-13" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="QWTr_XzzyktRFArO9pb3-13" value="用户可以制定健康计划" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="309" y="367" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QWTr_XzzyktRFArO9pb3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="356" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
