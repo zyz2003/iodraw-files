@@ -34,8 +34,11 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-13" value="用户可以制定健康计划" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="309" y="367" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="356" width="120" height="60" as="geometry" />
+        <mxCell id="QWTr_XzzyktRFArO9pb3-14" value="用户可以进行各种打卡记录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="378" y="367" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QWTr_XzzyktRFArO9pb3-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
