@@ -94,8 +94,8 @@
             <mxPoint x="281" y="218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50AOBb5heiuVl-oDShUb-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="221" y="165" width="79" height="25" as="geometry" />
+        <mxCell id="50AOBb5heiuVl-oDShUb-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="227" y="168" width="68" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
