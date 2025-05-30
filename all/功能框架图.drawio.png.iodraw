@@ -73,14 +73,11 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-18" value="用户可以生成健康趋势分析报告并分享或下载" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="789" y="364" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Wj5g-LcNoWd9oQzyACqx-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Wj5g-LcNoWd9oQzyACqx-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QWTr_XzzyktRFArO9pb3-5" target="QWTr_XzzyktRFArO9pb3-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="953" y="221" as="sourcePoint" />
             <mxPoint x="953" y="171" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Wj5g-LcNoWd9oQzyACqx-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="928" y="163" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
