@@ -7,18 +7,6 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QWTr_XzzyktRFArO9pb3-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;平台功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="109" width="120" height="61" as="geometry" />
         </mxCell>
@@ -87,9 +75,6 @@
         </mxCell>
         <mxCell id="QWTr_XzzyktRFArO9pb3-18" value="用户可以生成健康趋势分析报告并分享或下载" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="789" y="364" width="60" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.439;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;curved=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-1" target="QWTr_XzzyktRFArO9pb3-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Wj5g-LcNoWd9oQzyACqx-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
