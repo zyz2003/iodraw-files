@@ -10,12 +10,6 @@
         <mxCell id="QWTr_XzzyktRFArO9pb3-2" value="查看个人健康数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="178" y="253" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-3" target="QWTr_XzzyktRFArO9pb3-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QWTr_XzzyktRFArO9pb3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QWTr_XzzyktRFArO9pb3-3" target="QWTr_XzzyktRFArO9pb3-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QWTr_XzzyktRFArO9pb3-3" value="制定健康目标" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="309" y="253" width="120" height="60" as="geometry" />
         </mxCell>
@@ -114,6 +108,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="96" y="565" as="sourcePoint" />
             <mxPoint x="146" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wj5g-LcNoWd9oQzyACqx-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="252" y="623" as="sourcePoint" />
+            <mxPoint x="302" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
